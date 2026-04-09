@@ -1,0 +1,1481 @@
+EmployeeID,Department,Attendance,TasksCompleted,Productivity,SupervisorRating,PerformanceRating
+RM297,Research & Development,95,3,75,3,3
+RM302,Sales,95,2,50,4,3
+RM458,Sales,99,3,75,2,3
+RM728,Research & Development,97,3,75,2,3
+RM829,Research & Development,86,3,75,3,3
+RM973,Research & Development,92,3,75,4,3
+RM1154,Sales,71,3,75,2,3
+RM1312,Research & Development,84,3,75,2,3
+RM128,Sales,73,3,75,4,3
+RM150,Research & Development,93,3,75,2,3
+RM172,Sales,70,1,25,3,4
+RM178,Research & Development,96,2,50,2,4
+RM423,Human Resources,85,2,50,1,3
+RM689,Sales,89,2,50,4,3
+RM854,Research & Development,86,3,75,3,4
+RM893,Research & Development,78,2,50,1,4
+RM910,Research & Development,88,4,100,2,3
+RM103,Research & Development,71,2,50,4,3
+RM488,Research & Development,80,2,50,4,3
+RM514,Research & Development,71,3,75,4,3
+RM663,Sales,78,2,50,3,3
+RM690,Research & Development,88,3,75,1,3
+RM732,Research & Development,77,2,50,4,3
+RM777,Sales,93,3,75,4,3
+RM857,Research & Development,90,2,50,1,3
+RM877,Sales,74,4,100,3,3
+RM1179,Sales,99,3,75,3,3
+RM1198,Sales,92,3,75,4,3
+RM024,Research & Development,96,3,75,3,3
+RM275,Research & Development,96,2,50,4,3
+RM358,Sales,73,2,50,1,3
+RM363,Sales,87,3,75,1,4
+RM371,Sales,90,4,100,3,3
+RM497,Sales,76,3,75,3,3
+RM664,Research & Development,94,3,75,4,3
+RM778,Research & Development,94,2,50,3,3
+RM816,Research & Development,93,2,50,4,3
+RM916,Research & Development,95,2,50,1,4
+RM1153,Research & Development,85,3,75,3,3
+RM1272,Sales,70,3,75,2,3
+RM1437,Sales,92,3,75,3,3
+RM018,Research & Development,99,4,100,4,3
+RM110,Research & Development,76,3,75,2,3
+RM129,Research & Development,89,3,75,3,3
+RM161,Research & Development,76,3,75,3,4
+RM207,Research & Development,95,4,100,4,3
+RM384,Research & Development,94,3,75,1,3
+RM444,Research & Development,88,2,50,3,3
+RM499,Research & Development,75,3,75,1,4
+RM631,Research & Development,72,2,50,4,4
+RM667,Research & Development,99,3,75,2,3
+RM735,Research & Development,84,1,25,2,3
+RM861,Research & Development,81,2,50,3,3
+RM1138,Research & Development,77,2,50,2,3
+RM1274,Research & Development,72,3,75,3,3
+RM1340,Research & Development,75,3,75,4,4
+RM1424,Research & Development,73,3,75,4,3
+RM087,Sales,86,3,75,3,3
+RM346,Research & Development,87,3,75,3,3
+RM517,Research & Development,75,4,100,1,3
+RM551,Research & Development,84,3,75,2,3
+RM566,Research & Development,94,4,100,1,3
+RM586,Research & Development,87,4,100,3,4
+RM911,Research & Development,75,3,75,4,4
+RM1083,Research & Development,98,3,75,1,3
+RM1128,Research & Development,82,4,100,4,3
+RM1202,Research & Development,91,2,50,4,3
+RM1214,Sales,99,3,75,3,4
+RM1239,Research & Development,73,3,75,3,3
+RM1409,Research & Development,88,3,75,4,3
+RM1439,Sales,100,3,75,4,3
+RM021,Research & Development,71,4,100,1,3
+RM035,Research & Development,95,3,75,2,3
+RM097,Sales,85,3,75,1,4
+RM114,Research & Development,88,3,75,2,3
+RM381,Sales,76,3,75,4,3
+RM415,Sales,93,3,75,1,3
+RM471,Sales,88,3,75,4,3
+RM475,Research & Development,97,4,100,2,3
+RM477,Research & Development,91,2,50,4,4
+RM480,Research & Development,96,3,75,1,3
+RM526,Sales,73,3,75,1,3
+RM587,Research & Development,83,2,50,3,3
+RM641,Research & Development,82,2,50,1,3
+RM725,Research & Development,96,2,50,4,3
+RM842,Research & Development,88,3,75,4,4
+RM872,Research & Development,95,3,75,4,3
+RM1026,Sales,81,3,75,4,3
+RM1061,Research & Development,97,3,75,2,3
+RM1062,Sales,94,3,75,4,3
+RM1098,Research & Development,79,2,50,3,3
+RM1169,Research & Development,100,3,75,1,3
+RM1218,Research & Development,97,4,100,3,3
+RM1223,Human Resources,82,1,25,4,3
+RM1231,Research & Development,71,3,75,2,3
+RM1246,Human Resources,98,3,75,1,3
+RM1408,Research & Development,89,2,50,2,3
+RM108,Sales,75,2,50,3,3
+RM109,Research & Development,74,2,50,4,3
+RM139,Sales,94,2,50,1,3
+RM256,Research & Development,98,3,75,1,3
+RM268,Research & Development,80,4,100,2,3
+RM398,Sales,72,2,50,2,3
+RM406,Research & Development,74,3,75,1,3
+RM479,Sales,77,3,75,2,3
+RM518,Sales,95,4,100,4,4
+RM564,Sales,70,3,75,3,4
+RM619,Research & Development,80,4,100,1,3
+RM635,Sales,82,3,75,3,3
+RM639,Sales,93,2,50,3,3
+RM684,Sales,89,2,50,3,3
+RM797,Research & Development,85,3,75,4,3
+RM886,Sales,84,3,75,3,3
+RM912,Sales,74,1,25,3,3
+RM935,Research & Development,75,3,75,4,3
+RM966,Research & Development,91,3,75,4,3
+RM994,Sales,72,4,100,1,3
+RM1004,Research & Development,93,3,75,1,3
+RM1022,Sales,79,2,50,1,3
+RM1175,Research & Development,99,4,100,4,3
+RM1412,Human Resources,82,3,75,3,3
+RM1414,Research & Development,86,3,75,4,3
+RM1434,Sales,79,3,75,1,4
+RM043,Research & Development,96,1,25,1,3
+RM055,Sales,95,2,50,3,3
+RM126,Research & Development,98,2,50,3,3
+RM135,Human Resources,96,3,75,3,4
+RM279,Research & Development,77,3,75,3,4
+RM285,Research & Development,75,3,75,1,3
+RM289,Research & Development,72,3,75,1,3
+RM294,Sales,77,2,50,4,3
+RM356,Sales,71,3,75,3,3
+RM383,Research & Development,91,3,75,3,4
+RM419,Research & Development,98,3,75,1,4
+RM454,Human Resources,81,3,75,2,3
+RM461,Sales,78,3,75,1,3
+RM464,Research & Development,81,1,25,3,3
+RM476,Sales,96,3,75,1,4
+RM506,Research & Development,85,3,75,3,3
+RM572,Research & Development,70,1,25,1,3
+RM574,Sales,91,2,50,4,3
+RM615,Research & Development,83,2,50,3,3
+RM686,Sales,100,2,50,3,3
+RM734,Research & Development,74,4,100,4,3
+RM749,Sales,83,1,25,2,3
+RM763,Research & Development,84,3,75,1,3
+RM770,Research & Development,72,2,50,1,3
+RM782,Research & Development,81,2,50,1,3
+RM798,Research & Development,76,3,75,1,4
+RM844,Research & Development,99,4,100,1,4
+RM913,Research & Development,81,3,75,3,4
+RM999,Research & Development,91,2,50,1,3
+RM1005,Research & Development,91,4,100,3,3
+RM1119,Research & Development,88,3,75,1,4
+RM1207,Research & Development,98,3,75,4,4
+RM1225,Research & Development,96,1,25,4,3
+RM1298,Human Resources,83,3,75,4,3
+RM1310,Sales,80,3,75,3,3
+RM1350,Research & Development,93,2,50,2,3
+RM1362,Research & Development,81,4,100,3,3
+RM1387,Research & Development,86,3,75,3,3
+RM1465,Sales,85,2,50,4,3
+RM1465,Sales,70,2,50,4,3
+RM005,Research & Development,81,3,75,1,3
+RM042,Research & Development,74,3,75,4,3
+RM044,Sales,92,3,75,4,3
+RM162,Research & Development,100,3,75,4,3
+RM165,Research & Development,84,2,50,3,3
+RM171,Research & Development,74,3,75,3,3
+RM192,Research & Development,97,3,75,4,3
+RM201,Research & Development,77,2,50,3,3
+RM213,Sales,70,3,75,4,3
+RM319,Research & Development,75,3,75,3,3
+RM321,Sales,91,3,75,4,3
+RM332,Sales,84,3,75,3,3
+RM340,Sales,77,3,75,2,3
+RM374,Research & Development,94,3,75,4,3
+RM486,Research & Development,95,2,50,1,3
+RM496,Sales,91,3,75,3,3
+RM513,Research & Development,89,2,50,1,3
+RM522,Sales,79,4,100,4,4
+RM531,Research & Development,78,3,75,3,3
+RM538,Research & Development,86,3,75,4,4
+RM555,Research & Development,79,2,50,4,3
+RM577,Sales,73,3,75,3,3
+RM611,Research & Development,70,2,50,3,3
+RM616,Research & Development,98,3,75,4,3
+RM671,Research & Development,78,3,75,2,3
+RM718,Research & Development,71,3,75,3,3
+RM740,Research & Development,99,3,75,1,3
+RM787,Research & Development,99,1,25,1,3
+RM834,Research & Development,93,2,50,4,3
+RM890,Research & Development,71,3,75,1,3
+RM903,Research & Development,82,3,75,1,3
+RM971,Sales,96,4,100,3,3
+RM975,Sales,75,1,25,4,4
+RM997,Sales,95,2,50,4,3
+RM998,Research & Development,71,3,75,4,3
+RM1018,Research & Development,78,3,75,2,3
+RM1150,Research & Development,78,2,50,4,3
+RM1170,Research & Development,76,4,100,2,3
+RM1171,Research & Development,75,3,75,4,3
+RM1249,Research & Development,94,3,75,3,3
+RM1318,Research & Development,70,3,75,4,3
+RM1329,Sales,89,2,50,2,4
+RM1335,Research & Development,91,2,50,4,3
+RM1351,Sales,98,4,100,1,3
+RM1368,Research & Development,96,3,75,2,3
+RM1380,Human Resources,93,2,50,1,3
+RM1394,Sales,97,3,75,4,3
+RM1468,Research & Development,100,4,100,2,4
+RM1468,Research & Development,95,4,100,2,4
+RM015,Research & Development,86,2,50,3,3
+RM052,Research & Development,96,3,75,3,3
+RM098,Sales,100,3,75,2,3
+RM163,Research & Development,92,3,75,3,3
+RM265,Research & Development,71,3,75,1,3
+RM273,Research & Development,81,3,75,4,4
+RM290,Research & Development,90,3,75,4,4
+RM303,Research & Development,98,4,100,2,3
+RM324,Research & Development,83,1,25,1,3
+RM375,Sales,97,3,75,2,3
+RM405,Research & Development,84,3,75,3,3
+RM541,Research & Development,100,1,25,1,3
+RM599,Research & Development,81,3,75,3,3
+RM613,Sales,70,3,75,2,4
+RM630,Human Resources,74,2,50,2,3
+RM660,Sales,84,3,75,1,3
+RM669,Research & Development,98,3,75,3,3
+RM765,Sales,99,3,75,4,4
+RM781,Research & Development,98,2,50,2,3
+RM789,Research & Development,75,3,75,3,3
+RM794,Research & Development,95,3,75,1,3
+RM801,Research & Development,74,2,50,1,3
+RM810,Research & Development,93,3,75,4,3
+RM820,Research & Development,80,2,50,1,3
+RM828,Research & Development,81,2,50,3,3
+RM843,Research & Development,82,3,75,3,3
+RM869,Research & Development,93,2,50,4,3
+RM922,Research & Development,78,3,75,4,3
+RM930,Research & Development,75,2,50,4,3
+RM934,Research & Development,73,3,75,4,3
+RM945,Research & Development,87,1,25,3,3
+RM985,Sales,96,2,50,3,3
+RM1042,Sales,94,3,75,4,3
+RM1057,Sales,99,3,75,1,3
+RM1069,Research & Development,87,2,50,3,3
+RM1070,Research & Development,91,2,50,1,3
+RM1071,Sales,85,3,75,3,3
+RM1074,Research & Development,84,1,25,3,3
+RM1137,Research & Development,73,3,75,3,3
+RM1152,Research & Development,90,1,25,2,4
+RM1284,Research & Development,97,3,75,3,3
+RM1308,Research & Development,91,3,75,3,4
+RM1324,Human Resources,80,3,75,3,3
+RM1338,Sales,100,3,75,2,3
+RM1365,Sales,76,2,50,3,3
+RM1370,Sales,85,3,75,4,3
+RM1382,Research & Development,77,3,75,3,3
+RM1391,Research & Development,100,2,50,3,3
+RM012,Research & Development,78,2,50,4,3
+RM016,Research & Development,74,4,100,2,3
+RM072,Research & Development,74,3,75,3,4
+RM156,Research & Development,87,3,75,4,3
+RM206,Sales,90,3,75,2,4
+RM218,Research & Development,88,3,75,3,3
+RM228,Sales,70,3,75,2,3
+RM230,Research & Development,93,2,50,3,3
+RM253,Research & Development,86,3,75,3,3
+RM255,Sales,96,3,75,4,3
+RM266,Sales,84,2,50,1,3
+RM283,Sales,71,3,75,2,3
+RM337,Research & Development,96,1,25,2,3
+RM338,Research & Development,92,2,50,2,3
+RM344,Sales,70,2,50,4,3
+RM350,Sales,80,3,75,4,3
+RM372,Research & Development,86,3,75,4,3
+RM421,Research & Development,75,2,50,2,3
+RM422,Research & Development,84,2,50,3,3
+RM455,Research & Development,93,3,75,4,3
+RM508,Sales,96,3,75,2,3
+RM520,Research & Development,98,1,25,2,3
+RM547,Sales,70,3,75,3,3
+RM556,Sales,95,3,75,4,3
+RM573,Research & Development,94,3,75,2,3
+RM590,Research & Development,83,2,50,2,3
+RM595,Research & Development,99,4,100,3,4
+RM646,Sales,92,2,50,2,3
+RM658,Research & Development,98,2,50,1,3
+RM698,Sales,75,3,75,3,3
+RM712,Research & Development,80,2,50,4,4
+RM809,Research & Development,74,3,75,3,4
+RM824,Research & Development,92,3,75,4,3
+RM826,Research & Development,94,2,50,2,3
+RM837,Sales,75,2,50,4,3
+RM853,Research & Development,90,3,75,2,3
+RM860,Research & Development,83,1,25,2,3
+RM894,Research & Development,87,3,75,1,3
+RM904,Research & Development,100,3,75,3,3
+RM906,Research & Development,87,2,50,4,3
+RM933,Research & Development,79,3,75,2,3
+RM1006,Human Resources,88,2,50,2,3
+RM1008,Research & Development,84,3,75,3,3
+RM1058,Sales,99,3,75,1,3
+RM1064,Sales,99,2,50,3,3
+RM1073,Research & Development,90,3,75,4,3
+RM1078,Research & Development,100,2,50,1,3
+RM1091,Research & Development,99,1,25,3,3
+RM1105,Research & Development,83,4,100,3,3
+RM1123,Research & Development,79,3,75,2,3
+RM1126,Research & Development,97,3,75,1,3
+RM1173,Sales,98,2,50,3,3
+RM1189,Sales,70,2,50,1,3
+RM1220,Research & Development,71,3,75,4,3
+RM1250,Sales,87,1,25,2,3
+RM1251,Research & Development,85,4,100,4,3
+RM1259,Research & Development,80,2,50,4,3
+RM1314,Human Resources,79,2,50,1,3
+RM1319,Research & Development,88,3,75,4,3
+RM1325,Research & Development,78,1,25,4,3
+RM1330,Human Resources,73,2,50,4,3
+RM1333,Research & Development,75,2,50,4,4
+RM1344,Research & Development,82,3,75,4,3
+RM1366,Sales,78,4,100,3,3
+RM1388,Research & Development,100,3,75,1,3
+RM1443,Research & Development,84,3,75,1,3
+RM1460,Research & Development,86,2,50,4,3
+RM1461,Research & Development,85,2,50,4,3
+RM1461,Research & Development,84,2,50,4,3
+RM008,Research & Development,99,3,75,4,4
+RM033,Research & Development,84,2,50,4,3
+RM045,Research & Development,95,3,75,3,4
+RM081,Research & Development,75,2,50,4,3
+RM089,Research & Development,73,2,50,3,3
+RM093,Sales,80,2,50,3,3
+RM121,Research & Development,80,1,25,1,4
+RM140,Human Resources,76,3,75,3,3
+RM144,Research & Development,98,3,75,1,3
+RM146,Research & Development,97,3,75,4,3
+RM147,Research & Development,86,2,50,2,3
+RM168,Sales,70,3,75,2,3
+RM174,Research & Development,88,3,75,3,3
+RM212,Research & Development,73,2,50,3,4
+RM215,Research & Development,78,3,75,4,3
+RM217,Sales,83,2,50,3,3
+RM325,Research & Development,92,3,75,4,3
+RM339,Sales,84,2,50,4,3
+RM355,Sales,80,3,75,4,3
+RM382,Sales,78,3,75,3,3
+RM386,Research & Development,90,3,75,3,4
+RM403,Sales,75,3,75,2,3
+RM411,Research & Development,88,1,25,3,4
+RM420,Research & Development,80,3,75,3,3
+RM424,Sales,73,3,75,3,3
+RM427,Research & Development,72,3,75,3,3
+RM438,Sales,73,3,75,4,3
+RM481,Sales,73,2,50,2,3
+RM502,Research & Development,95,3,75,3,4
+RM546,Sales,76,3,75,3,4
+RM582,Research & Development,79,1,25,4,4
+RM603,Research & Development,70,2,50,3,4
+RM624,Research & Development,73,2,50,2,3
+RM703,Sales,70,3,75,3,3
+RM721,Research & Development,70,3,75,1,3
+RM731,Research & Development,79,4,100,2,3
+RM733,Research & Development,76,3,75,2,3
+RM783,Research & Development,91,3,75,3,3
+RM845,Sales,96,2,50,3,3
+RM866,Sales,85,3,75,3,3
+RM875,Research & Development,73,3,75,3,3
+RM887,Research & Development,71,3,75,4,4
+RM932,Research & Development,72,3,75,3,3
+RM942,Research & Development,73,2,50,1,3
+RM949,Research & Development,81,3,75,2,4
+RM1014,Sales,74,3,75,4,3
+RM1050,Sales,75,3,75,4,3
+RM1053,Research & Development,91,3,75,3,3
+RM1065,Human Resources,73,3,75,3,4
+RM1107,Sales,87,2,50,2,3
+RM1110,Sales,89,3,75,3,3
+RM1142,Research & Development,85,2,50,2,3
+RM1234,Research & Development,94,3,75,2,3
+RM1245,Research & Development,83,2,50,4,3
+RM1247,Human Resources,78,2,50,3,3
+RM1252,Sales,83,2,50,3,3
+RM1260,Research & Development,71,4,100,3,3
+RM1297,Research & Development,72,3,75,1,3
+RM1339,Sales,82,3,75,2,3
+RM1413,Research & Development,82,3,75,4,3
+RM013,Research & Development,80,3,75,1,3
+RM059,Research & Development,79,3,75,4,4
+RM073,Research & Development,79,3,75,3,3
+RM076,Research & Development,99,3,75,3,4
+RM125,Sales,99,1,25,2,3
+RM133,Sales,86,1,25,2,3
+RM181,Research & Development,72,3,75,3,4
+RM225,Research & Development,80,1,25,3,3
+RM246,Research & Development,100,3,75,2,3
+RM260,Research & Development,100,2,50,3,3
+RM267,Research & Development,74,2,50,2,4
+RM293,Sales,92,3,75,4,3
+RM304,Sales,76,4,100,2,3
+RM310,Research & Development,70,3,75,3,3
+RM311,Human Resources,89,2,50,1,3
+RM313,Research & Development,72,3,75,3,3
+RM322,Sales,84,3,75,4,3
+RM326,Research & Development,93,2,50,3,4
+RM343,Research & Development,89,3,75,3,3
+RM370,Research & Development,71,2,50,3,3
+RM395,Research & Development,86,3,75,2,3
+RM400,Research & Development,85,2,50,4,3
+RM435,Research & Development,97,3,75,3,4
+RM440,Research & Development,80,3,75,1,3
+RM451,Sales,88,3,75,2,3
+RM457,Sales,71,2,50,3,4
+RM483,Sales,89,3,75,2,3
+RM485,Sales,79,4,100,1,4
+RM645,Research & Development,86,3,75,4,3
+RM676,Sales,93,2,50,2,3
+RM680,Sales,73,3,75,4,3
+RM691,Research & Development,73,3,75,4,3
+RM710,Research & Development,95,2,50,3,4
+RM727,Research & Development,87,3,75,3,3
+RM819,Sales,76,4,100,3,3
+RM832,Research & Development,96,3,75,3,3
+RM896,Research & Development,77,3,75,3,3
+RM897,Research & Development,89,2,50,3,3
+RM951,Sales,79,3,75,4,3
+RM953,Sales,79,3,75,4,3
+RM981,Sales,89,2,50,3,3
+RM986,Research & Development,77,3,75,4,3
+RM1013,Sales,88,1,25,2,3
+RM1015,Research & Development,73,3,75,1,3
+RM1017,Research & Development,83,2,50,1,3
+RM1031,Sales,97,3,75,1,3
+RM1034,Research & Development,80,4,100,3,3
+RM1036,Human Resources,88,4,100,4,3
+RM1037,Research & Development,70,3,75,2,3
+RM1086,Research & Development,85,3,75,4,3
+RM1145,Sales,85,3,75,4,3
+RM1192,Sales,85,3,75,1,3
+RM1228,Research & Development,79,3,75,2,3
+RM1240,Research & Development,89,3,75,4,4
+RM1248,Sales,95,3,75,1,3
+RM1258,Sales,70,3,75,1,3
+RM1275,Sales,95,2,50,1,3
+RM1307,Sales,94,3,75,1,3
+RM1313,Human Resources,98,4,100,4,3
+RM1342,Research & Development,89,3,75,2,3
+RM1359,Sales,81,3,75,3,3
+RM1361,Research & Development,98,4,100,1,3
+RM1383,Research & Development,98,3,75,3,3
+RM1390,Research & Development,91,1,25,4,4
+RM1396,Sales,100,3,75,1,3
+RM1403,Research & Development,80,1,25,4,3
+RM1406,Research & Development,100,3,75,3,4
+RM1418,Sales,91,3,75,1,3
+RM1464,Research & Development,85,3,75,2,3
+RM1464,Research & Development,86,3,75,2,3
+RM006,Research & Development,97,3,75,4,3
+RM017,Research & Development,90,4,100,1,3
+RM027,Research & Development,86,1,25,2,4
+RM061,Research & Development,71,3,75,1,4
+RM074,Research & Development,96,3,75,2,3
+RM095,Sales,77,3,75,2,3
+RM102,Research & Development,96,3,75,4,3
+RM141,Research & Development,91,3,75,1,4
+RM145,Sales,82,1,25,4,3
+RM155,Sales,86,3,75,2,3
+RM170,Research & Development,100,3,75,3,4
+RM211,Sales,82,1,25,4,3
+RM239,Sales,95,3,75,3,3
+RM240,Research & Development,89,2,50,4,3
+RM242,Sales,86,3,75,3,3
+RM261,Research & Development,87,4,100,2,4
+RM263,Research & Development,91,2,50,4,3
+RM307,Sales,73,2,50,4,3
+RM320,Sales,85,2,50,3,3
+RM323,Research & Development,81,4,100,1,3
+RM352,Research & Development,71,3,75,3,3
+RM470,Sales,93,4,100,4,3
+RM501,Research & Development,82,3,75,1,3
+RM528,Sales,87,3,75,4,3
+RM532,Research & Development,71,3,75,3,3
+RM559,Research & Development,86,3,75,1,3
+RM601,Research & Development,98,2,50,3,3
+RM623,Sales,93,3,75,2,3
+RM627,Research & Development,75,4,100,3,3
+RM638,Research & Development,75,3,75,4,3
+RM642,Sales,89,3,75,2,3
+RM657,Research & Development,92,3,75,1,4
+RM683,Research & Development,78,2,50,3,4
+RM693,Research & Development,84,3,75,3,3
+RM757,Research & Development,75,3,75,4,3
+RM851,Sales,83,3,75,3,3
+RM881,Research & Development,79,2,50,3,4
+RM882,Research & Development,90,3,75,4,3
+RM936,Sales,73,4,100,3,3
+RM940,Research & Development,76,3,75,4,3
+RM992,Sales,70,3,75,3,3
+RM1027,Sales,77,3,75,4,3
+RM1076,Research & Development,80,3,75,3,4
+RM1102,Research & Development,90,2,50,4,3
+RM1114,Research & Development,75,3,75,4,3
+RM1140,Research & Development,87,4,100,2,3
+RM1191,Research & Development,93,3,75,4,3
+RM1206,Research & Development,78,3,75,4,3
+RM1227,Research & Development,93,3,75,1,3
+RM1238,Sales,70,1,25,1,3
+RM1242,Sales,97,1,25,4,3
+RM1261,Research & Development,86,3,75,2,3
+RM1320,Sales,75,3,75,4,3
+RM1327,Sales,71,2,50,3,3
+RM1376,Research & Development,93,4,100,1,3
+RM1389,Research & Development,87,3,75,3,3
+RM1395,Research & Development,89,2,50,4,4
+RM1427,Research & Development,74,2,50,3,3
+RM1429,Sales,85,2,50,2,3
+RM1432,Sales,85,3,75,3,3
+RM1450,Research & Development,81,3,75,4,3
+RM004,Research & Development,85,3,75,4,3
+RM031,Research & Development,89,3,75,3,3
+RM040,Sales,71,4,100,3,3
+RM056,Research & Development,70,3,75,1,3
+RM122,Sales,88,3,75,3,3
+RM177,Research & Development,95,3,75,3,3
+RM186,Research & Development,92,3,75,4,3
+RM222,Research & Development,78,2,50,3,4
+RM235,Research & Development,95,3,75,3,3
+RM237,Research & Development,74,3,75,1,4
+RM247,Research & Development,87,2,50,3,3
+RM314,Research & Development,88,3,75,4,3
+RM329,Sales,91,2,50,2,3
+RM364,Sales,72,3,75,4,3
+RM436,Research & Development,70,3,75,2,3
+RM437,Research & Development,89,1,25,1,3
+RM456,Research & Development,92,4,100,1,3
+RM500,Sales,91,3,75,3,3
+RM510,Research & Development,71,3,75,3,4
+RM515,Research & Development,99,3,75,1,3
+RM563,Research & Development,83,3,75,4,3
+RM591,Research & Development,77,3,75,3,3
+RM592,Sales,95,3,75,1,3
+RM620,Sales,72,4,100,1,4
+RM656,Human Resources,96,3,75,4,3
+RM674,Research & Development,92,2,50,3,3
+RM695,Research & Development,77,2,50,2,3
+RM711,Sales,78,3,75,4,3
+RM713,Research & Development,88,3,75,2,3
+RM716,Research & Development,99,4,100,3,3
+RM755,Sales,98,2,50,2,3
+RM791,Research & Development,75,2,50,4,3
+RM793,Research & Development,72,2,50,1,4
+RM799,Research & Development,78,2,50,1,4
+RM803,Sales,87,3,75,4,3
+RM830,Sales,81,3,75,1,3
+RM864,Human Resources,75,3,75,2,3
+RM873,Sales,100,3,75,2,3
+RM884,Research & Development,87,3,75,1,3
+RM909,Sales,93,4,100,4,3
+RM991,Sales,94,3,75,2,3
+RM1048,Sales,94,3,75,4,3
+RM1067,Research & Development,100,2,50,1,3
+RM1075,Research & Development,75,3,75,4,3
+RM1092,Research & Development,82,2,50,4,3
+RM1096,Research & Development,94,3,75,2,3
+RM1106,Sales,70,3,75,1,3
+RM1190,Sales,82,3,75,4,3
+RM1199,Sales,82,3,75,3,4
+RM1211,Research & Development,87,4,100,2,3
+RM1254,Sales,79,3,75,4,3
+RM1256,Sales,75,3,75,1,4
+RM1266,Research & Development,85,3,75,4,3
+RM1283,Research & Development,73,4,100,4,3
+RM1364,Sales,95,3,75,2,3
+RM1399,Research & Development,70,3,75,4,4
+RM1416,Research & Development,84,2,50,2,3
+RM1426,Research & Development,94,3,75,2,3
+RM014,Research & Development,87,3,75,2,3
+RM023,Research & Development,85,3,75,1,3
+RM025,Research & Development,86,3,75,2,3
+RM047,Sales,78,3,75,2,4
+RM085,Research & Development,84,3,75,1,3
+RM104,Research & Development,85,3,75,1,3
+RM112,Research & Development,80,1,25,1,4
+RM115,Research & Development,97,2,50,3,3
+RM117,Research & Development,98,2,50,3,3
+RM160,Sales,97,3,75,3,3
+RM182,Research & Development,75,3,75,4,3
+RM189,Research & Development,70,2,50,4,3
+RM203,Research & Development,71,3,75,4,3
+RM248,Research & Development,91,2,50,4,3
+RM379,Sales,83,4,100,1,3
+RM394,Sales,77,3,75,3,3
+RM416,Sales,85,1,25,4,3
+RM433,Research & Development,95,2,50,4,3
+RM441,Human Resources,76,3,75,2,3
+RM463,Sales,71,4,100,4,3
+RM482,Research & Development,97,2,50,2,3
+RM495,Sales,94,3,75,3,3
+RM504,Research & Development,74,3,75,2,3
+RM525,Research & Development,90,2,50,4,3
+RM550,Research & Development,90,3,75,2,3
+RM561,Research & Development,96,3,75,2,3
+RM568,Sales,82,3,75,4,4
+RM575,Research & Development,88,4,100,2,3
+RM580,Research & Development,72,2,50,3,3
+RM584,Sales,88,3,75,3,3
+RM607,Research & Development,98,2,50,3,3
+RM614,Human Resources,94,3,75,3,3
+RM672,Research & Development,81,3,75,2,3
+RM758,Sales,75,4,100,2,3
+RM764,Sales,84,3,75,3,3
+RM795,Research & Development,97,3,75,1,3
+RM804,Research & Development,70,2,50,3,3
+RM823,Research & Development,90,3,75,4,3
+RM835,Sales,87,3,75,2,4
+RM848,Research & Development,73,2,50,4,4
+RM907,Research & Development,91,4,100,3,3
+RM918,Sales,92,3,75,3,3
+RM921,Research & Development,76,3,75,3,3
+RM924,Human Resources,99,2,50,3,3
+RM959,Research & Development,74,3,75,4,3
+RM965,Sales,74,3,75,3,3
+RM978,Research & Development,85,2,50,1,4
+RM980,Research & Development,84,3,75,2,3
+RM984,Research & Development,76,3,75,3,3
+RM1016,Research & Development,91,3,75,4,3
+RM1028,Research & Development,89,2,50,4,3
+RM1040,Human Resources,99,3,75,1,3
+RM1049,Sales,88,1,25,4,3
+RM1056,Research & Development,86,3,75,2,3
+RM1059,Sales,95,2,50,1,4
+RM1085,Sales,100,2,50,4,3
+RM1088,Sales,83,3,75,2,4
+RM1116,Research & Development,73,3,75,1,3
+RM1118,Research & Development,80,3,75,2,3
+RM1132,Research & Development,86,2,50,4,3
+RM1147,Research & Development,75,4,100,3,3
+RM1180,Research & Development,82,3,75,4,3
+RM1209,Research & Development,87,2,50,2,3
+RM1213,Research & Development,89,2,50,2,3
+RM1253,Research & Development,90,4,100,4,3
+RM1268,Sales,72,3,75,4,3
+RM1271,Sales,98,1,25,4,3
+RM1291,Research & Development,81,3,75,4,3
+RM1301,Sales,76,4,100,2,4
+RM1343,Sales,81,3,75,3,3
+RM1354,Research & Development,91,1,25,4,4
+RM1360,Sales,71,2,50,4,3
+RM1369,Research & Development,72,2,50,3,3
+RM1385,Sales,92,3,75,1,4
+RM1386,Sales,92,3,75,4,3
+RM1447,Sales,73,2,50,4,4
+RM1470,Research & Development,72,4,100,2,3
+RM1470,Research & Development,78,4,100,2,3
+RM011,Research & Development,92,4,100,1,3
+RM038,Sales,89,3,75,4,3
+RM041,Research & Development,100,3,75,3,3
+RM050,Research & Development,97,4,100,4,3
+RM054,Research & Development,78,2,50,3,3
+RM057,Sales,73,3,75,2,4
+RM058,Research & Development,85,3,75,3,3
+RM069,Research & Development,99,3,75,2,3
+RM077,Sales,81,2,50,3,3
+RM082,Research & Development,94,2,50,2,3
+RM152,Sales,79,3,75,3,3
+RM193,Research & Development,88,2,50,2,3
+RM197,Research & Development,84,3,75,2,3
+RM229,Sales,84,3,75,3,3
+RM277,Research & Development,100,4,100,2,3
+RM298,Sales,78,3,75,3,3
+RM345,Research & Development,82,3,75,3,3
+RM373,Research & Development,88,2,50,3,3
+RM431,Research & Development,74,1,25,4,3
+RM439,Research & Development,73,3,75,4,3
+RM448,Sales,94,3,75,2,3
+RM462,Sales,87,3,75,1,3
+RM484,Research & Development,71,2,50,1,3
+RM509,Research & Development,70,1,25,2,3
+RM516,Research & Development,84,2,50,3,3
+RM558,Research & Development,96,3,75,4,3
+RM581,Sales,85,3,75,1,3
+RM597,Research & Development,100,4,100,4,3
+RM612,Research & Development,89,3,75,3,4
+RM621,Research & Development,85,2,50,3,3
+RM636,Research & Development,82,2,50,4,4
+RM637,Research & Development,76,3,75,4,3
+RM648,Research & Development,86,2,50,4,3
+RM677,Research & Development,84,3,75,4,4
+RM699,Sales,77,3,75,3,3
+RM705,Sales,87,3,75,4,3
+RM726,Research & Development,77,2,50,3,4
+RM730,Research & Development,95,3,75,3,3
+RM741,Research & Development,85,3,75,2,4
+RM792,Sales,87,3,75,4,4
+RM821,Sales,100,3,75,4,3
+RM836,Human Resources,91,3,75,3,3
+RM841,Research & Development,87,2,50,4,3
+RM847,Research & Development,91,2,50,3,3
+RM849,Research & Development,77,2,50,4,3
+RM871,Sales,90,3,75,3,3
+RM889,Sales,87,2,50,3,3
+RM925,Research & Development,92,3,75,3,3
+RM962,Research & Development,96,3,75,3,3
+RM974,Research & Development,100,2,50,4,3
+RM982,Sales,91,3,75,4,3
+RM1003,Research & Development,93,3,75,3,3
+RM1060,Sales,88,3,75,4,3
+RM1082,Research & Development,75,2,50,4,3
+RM1101,Sales,78,2,50,2,4
+RM1109,Research & Development,82,2,50,4,3
+RM1111,Research & Development,97,3,75,1,3
+RM1124,Research & Development,99,3,75,1,3
+RM1131,Research & Development,82,4,100,2,3
+RM1135,Research & Development,98,2,50,3,3
+RM1151,Research & Development,85,4,100,2,3
+RM1158,Research & Development,91,3,75,3,3
+RM1163,Sales,90,2,50,4,3
+RM1168,Sales,98,1,25,1,3
+RM1187,Sales,94,3,75,4,4
+RM1216,Research & Development,90,2,50,1,3
+RM1233,Research & Development,91,3,75,4,3
+RM1282,Sales,74,3,75,3,3
+RM1289,Research & Development,70,3,75,2,3
+RM1303,Research & Development,90,1,25,2,3
+RM1346,Research & Development,70,2,50,4,3
+RM1381,Sales,97,3,75,2,3
+RM1393,Sales,95,3,75,3,3
+RM1423,Research & Development,87,3,75,4,3
+RM1425,Research & Development,87,3,75,2,3
+RM1451,Human Resources,99,3,75,3,3
+RM1457,Research & Development,75,3,75,3,3
+RM1459,Research & Development,82,1,25,3,3
+RM010,Research & Development,74,3,75,3,3
+RM022,Sales,78,2,50,3,4
+RM039,Research & Development,95,2,50,2,3
+RM065,Research & Development,85,3,75,3,3
+RM067,Research & Development,89,2,50,2,3
+RM070,Research & Development,79,2,50,4,3
+RM075,Research & Development,82,4,100,2,3
+RM118,Sales,93,3,75,2,3
+RM119,Research & Development,82,3,75,1,4
+RM136,Research & Development,94,3,75,2,4
+RM173,Research & Development,80,3,75,4,3
+RM208,Research & Development,78,3,75,2,3
+RM221,Research & Development,90,3,75,4,3
+RM270,Research & Development,80,3,75,4,3
+RM292,Research & Development,72,3,75,3,3
+RM299,Research & Development,75,4,100,3,3
+RM306,Research & Development,75,3,75,2,3
+RM359,Sales,98,3,75,4,3
+RM360,Sales,77,2,50,1,3
+RM378,Research & Development,83,3,75,4,3
+RM385,Sales,75,2,50,2,3
+RM443,Sales,73,3,75,2,3
+RM512,Research & Development,74,2,50,2,3
+RM542,Research & Development,72,4,100,1,3
+RM570,Sales,100,2,50,1,3
+RM594,Research & Development,92,3,75,3,3
+RM600,Human Resources,80,3,75,3,3
+RM622,Sales,90,3,75,2,3
+RM634,Human Resources,73,2,50,1,4
+RM665,Research & Development,70,3,75,3,3
+RM681,Research & Development,80,3,75,2,3
+RM688,Research & Development,82,3,75,3,4
+RM694,Sales,86,2,50,3,3
+RM709,Sales,88,3,75,1,3
+RM753,Research & Development,100,4,100,3,3
+RM762,Research & Development,88,3,75,1,3
+RM774,Research & Development,91,2,50,4,3
+RM818,Research & Development,76,3,75,1,4
+RM874,Research & Development,98,1,25,3,3
+RM883,Research & Development,92,1,25,3,4
+RM901,Research & Development,97,3,75,3,3
+RM928,Research & Development,92,3,75,3,3
+RM943,Research & Development,100,3,75,4,3
+RM969,Sales,74,4,100,1,3
+RM1012,Sales,75,3,75,1,3
+RM1019,Research & Development,80,2,50,1,3
+RM1020,Sales,89,2,50,3,3
+RM1103,Sales,93,3,75,3,4
+RM1122,Sales,90,3,75,2,3
+RM1129,Research & Development,100,4,100,1,3
+RM1146,Research & Development,95,3,75,3,3
+RM1174,Research & Development,80,3,75,2,3
+RM1181,Research & Development,80,3,75,1,3
+RM1183,Research & Development,76,2,50,4,3
+RM1184,Research & Development,100,4,100,4,4
+RM1200,Research & Development,88,3,75,1,3
+RM1221,Sales,82,3,75,3,3
+RM1237,Sales,73,2,50,2,3
+RM1279,Research & Development,96,3,75,4,3
+RM1316,Research & Development,84,3,75,4,4
+RM1341,Sales,93,2,50,2,3
+RM1348,Human Resources,91,2,50,2,4
+RM1356,Sales,73,2,50,3,3
+RM1384,Research & Development,86,4,100,1,4
+RM1440,Sales,78,2,50,1,3
+RM1441,Research & Development,88,3,75,4,3
+RM1448,Sales,96,1,25,4,4
+RM1454,Sales,96,2,50,2,3
+RM1466,Research & Development,74,4,100,3,3
+RM1466,Research & Development,81,4,100,3,3
+RM003,Research & Development,77,2,50,4,3
+RM048,Research & Development,99,3,75,2,4
+RM060,Research & Development,79,2,50,1,3
+RM079,Research & Development,91,3,75,1,3
+RM101,Human Resources,94,3,75,3,4
+RM105,Research & Development,98,2,50,3,3
+RM116,Sales,98,3,75,3,3
+RM196,Research & Development,70,4,100,2,3
+RM223,Research & Development,89,3,75,2,3
+RM227,Sales,97,3,75,1,3
+RM249,Research & Development,78,2,50,3,3
+RM251,Research & Development,81,3,75,1,3
+RM274,Sales,90,3,75,3,3
+RM276,Research & Development,100,3,75,1,3
+RM286,Research & Development,99,3,75,4,3
+RM295,Research & Development,90,3,75,2,3
+RM341,Research & Development,81,3,75,4,3
+RM354,Research & Development,71,4,100,3,3
+RM365,Research & Development,77,3,75,3,4
+RM387,Research & Development,96,3,75,4,3
+RM390,Research & Development,95,3,75,3,3
+RM399,Research & Development,77,3,75,2,3
+RM465,Research & Development,95,3,75,2,3
+RM468,Sales,84,3,75,1,3
+RM473,Research & Development,82,3,75,2,3
+RM487,Sales,77,3,75,4,3
+RM507,Research & Development,98,3,75,3,3
+RM523,Research & Development,94,4,100,4,3
+RM578,Research & Development,76,3,75,4,3
+RM629,Sales,98,2,50,4,3
+RM649,Sales,85,3,75,3,3
+RM653,Sales,80,3,75,1,3
+RM696,Sales,86,2,50,1,3
+RM745,Research & Development,92,1,25,1,3
+RM768,Research & Development,99,3,75,4,3
+RM796,Sales,74,2,50,4,3
+RM833,Research & Development,79,2,50,3,3
+RM856,Research & Development,89,2,50,4,3
+RM990,Research & Development,99,3,75,3,3
+RM1002,Research & Development,72,3,75,1,3
+RM1023,Research & Development,84,4,100,3,3
+RM1090,Research & Development,89,3,75,1,3
+RM1159,Research & Development,100,3,75,3,3
+RM1164,Research & Development,91,3,75,2,3
+RM1212,Sales,72,1,25,3,3
+RM1277,Sales,82,2,50,2,3
+RM1281,Human Resources,100,3,75,3,3
+RM1292,Research & Development,78,3,75,4,3
+RM1345,Research & Development,91,3,75,4,4
+RM1433,Research & Development,76,4,100,3,4
+RM009,Research & Development,75,2,50,4,4
+RM020,Research & Development,78,3,75,4,3
+RM062,Research & Development,93,3,75,4,3
+RM084,Research & Development,81,1,25,2,3
+RM143,Research & Development,84,3,75,4,4
+RM169,Sales,98,2,50,1,4
+RM180,Research & Development,87,3,75,3,3
+RM199,Research & Development,83,3,75,4,3
+RM200,Research & Development,82,3,75,4,3
+RM205,Research & Development,80,3,75,2,3
+RM224,Sales,84,3,75,1,3
+RM262,Sales,88,2,50,4,3
+RM278,Sales,72,4,100,1,4
+RM288,Research & Development,75,3,75,4,3
+RM308,Research & Development,91,2,50,1,3
+RM342,Research & Development,76,2,50,3,3
+RM417,Research & Development,88,3,75,4,4
+RM472,Research & Development,75,3,75,3,3
+RM491,Research & Development,71,3,75,3,3
+RM519,Sales,83,2,50,4,4
+RM530,Research & Development,75,4,100,2,3
+RM543,Research & Development,76,3,75,3,3
+RM560,Research & Development,79,3,75,4,3
+RM579,Research & Development,71,4,100,1,3
+RM606,Research & Development,88,2,50,1,3
+RM643,Sales,87,2,50,2,3
+RM682,Research & Development,90,3,75,4,3
+RM704,Sales,83,3,75,3,3
+RM723,Research & Development,87,3,75,3,3
+RM748,Sales,95,3,75,2,3
+RM766,Research & Development,80,3,75,3,3
+RM785,Research & Development,72,2,50,3,3
+RM808,Sales,100,2,50,3,3
+RM812,Sales,99,3,75,4,3
+RM827,Human Resources,81,4,100,3,3
+RM964,Sales,98,3,75,2,3
+RM983,Research & Development,95,4,100,4,3
+RM1108,Human Resources,82,3,75,3,3
+RM1113,Research & Development,88,3,75,3,3
+RM1120,Sales,70,3,75,3,3
+RM1121,Sales,94,3,75,2,3
+RM1162,Research & Development,92,2,50,4,3
+RM1188,Research & Development,91,3,75,4,3
+RM1194,Research & Development,98,2,50,4,4
+RM1203,Research & Development,91,3,75,4,3
+RM1257,Research & Development,71,2,50,3,3
+RM1262,Research & Development,70,1,25,2,3
+RM1273,Research & Development,81,2,50,4,3
+RM1290,Human Resources,83,3,75,1,3
+RM1309,Sales,94,1,25,2,4
+RM1374,Research & Development,76,2,50,4,3
+RM1377,Research & Development,85,3,75,2,3
+RM1392,Sales,75,2,50,1,3
+RM1401,Human Resources,82,3,75,4,3
+RM1417,Sales,85,3,75,4,3
+RM1419,Research & Development,80,2,50,1,3
+RM1431,Research & Development,87,1,25,2,3
+RM1452,Sales,75,3,75,1,3
+RM034,Sales,85,3,75,4,3
+RM138,Sales,81,2,50,4,3
+RM241,Research & Development,72,3,75,3,3
+RM252,Research & Development,100,3,75,3,4
+RM305,Research & Development,70,4,100,3,3
+RM315,Research & Development,76,3,75,3,3
+RM327,Research & Development,86,2,50,3,3
+RM328,Sales,96,3,75,4,3
+RM401,Research & Development,100,3,75,2,3
+RM450,Research & Development,90,3,75,3,3
+RM527,Research & Development,88,2,50,4,3
+RM552,Human Resources,86,4,100,3,3
+RM655,Human Resources,74,2,50,4,3
+RM670,Research & Development,74,3,75,4,4
+RM706,Sales,99,4,100,1,3
+RM739,Research & Development,89,2,50,4,3
+RM754,Research & Development,82,3,75,4,3
+RM814,Research & Development,92,3,75,1,3
+RM817,Research & Development,88,3,75,3,3
+RM938,Research & Development,94,2,50,3,3
+RM941,Research & Development,93,3,75,3,3
+RM950,Research & Development,73,3,75,1,3
+RM987,Sales,85,2,50,1,3
+RM993,Research & Development,72,3,75,3,4
+RM1033,Research & Development,100,2,50,1,4
+RM1080,Research & Development,98,3,75,2,3
+RM1125,Sales,75,4,100,4,3
+RM1149,Research & Development,71,3,75,2,3
+RM1156,Research & Development,73,2,50,3,3
+RM1160,Research & Development,80,3,75,1,3
+RM1176,Research & Development,87,3,75,4,4
+RM1241,Research & Development,71,3,75,4,3
+RM1285,Research & Development,74,3,75,3,4
+RM1293,Sales,82,3,75,3,3
+RM1336,Research & Development,83,3,75,4,3
+RM1367,Sales,95,1,25,1,3
+RM1373,Research & Development,94,3,75,1,4
+RM1404,Sales,98,3,75,2,3
+RM1430,Research & Development,76,3,75,1,3
+RM1438,Research & Development,74,3,75,4,3
+RM1463,Sales,75,2,50,2,3
+RM1467,Research & Development,100,2,50,4,3
+RM1463,Sales,91,2,50,2,3
+RM1467,Research & Development,92,2,50,4,3
+RM091,Research & Development,94,2,50,3,4
+RM151,Research & Development,100,3,75,2,3
+RM159,Sales,90,2,50,3,3
+RM187,Research & Development,83,3,75,4,3
+RM204,Research & Development,89,3,75,3,3
+RM209,Research & Development,80,2,50,4,3
+RM244,Research & Development,93,3,75,1,3
+RM258,Research & Development,99,3,75,1,3
+RM336,Sales,88,1,25,2,4
+RM362,Research & Development,97,4,100,4,3
+RM369,Sales,87,2,50,3,3
+RM388,Sales,99,3,75,4,3
+RM392,Research & Development,95,2,50,2,4
+RM418,Sales,76,3,75,3,3
+RM449,Research & Development,82,3,75,2,3
+RM459,Sales,78,1,25,3,3
+RM534,Sales,99,2,50,4,4
+RM554,Research & Development,99,2,50,4,4
+RM583,Research & Development,95,4,100,3,4
+RM602,Research & Development,81,2,50,1,3
+RM685,Sales,70,2,50,1,3
+RM692,Research & Development,91,3,75,4,3
+RM707,Sales,79,4,100,2,3
+RM769,Sales,82,3,75,3,3
+RM786,Research & Development,86,3,75,1,4
+RM815,Research & Development,96,2,50,3,3
+RM838,Research & Development,92,3,75,2,3
+RM846,Research & Development,87,2,50,3,3
+RM867,Sales,81,3,75,2,3
+RM885,Sales,70,2,50,2,3
+RM947,Sales,95,2,50,4,3
+RM958,Research & Development,98,3,75,3,3
+RM960,Research & Development,95,3,75,3,3
+RM968,Research & Development,95,3,75,2,4
+RM979,Research & Development,74,4,100,2,4
+RM1030,Research & Development,94,3,75,3,3
+RM1041,Research & Development,71,2,50,4,3
+RM1046,Research & Development,91,3,75,3,3
+RM1084,Research & Development,81,3,75,4,3
+RM1095,Sales,99,3,75,1,3
+RM1097,Human Resources,98,3,75,3,4
+RM1099,Research & Development,83,3,75,4,3
+RM1133,Sales,92,3,75,4,3
+RM1157,Research & Development,92,2,50,1,3
+RM1165,Research & Development,87,3,75,3,3
+RM1172,Research & Development,78,3,75,1,3
+RM1230,Research & Development,77,3,75,2,3
+RM1243,Sales,96,3,75,2,3
+RM1287,Research & Development,96,3,75,3,3
+RM1300,Research & Development,86,3,75,3,3
+RM1305,Research & Development,81,3,75,2,3
+RM1349,Research & Development,70,3,75,1,3
+RM1410,Research & Development,98,3,75,4,3
+RM1411,Sales,80,3,75,2,3
+RM1428,Research & Development,82,3,75,1,3
+RM1456,Research & Development,84,2,50,3,3
+RM1458,Research & Development,76,3,75,3,3
+RM001,Sales,94,3,75,2,3
+RM046,Research & Development,74,3,75,2,3
+RM134,Sales,84,3,75,3,3
+RM148,Research & Development,83,2,50,4,3
+RM149,Research & Development,76,3,75,3,4
+RM167,Research & Development,71,3,75,1,3
+RM183,Sales,84,3,75,2,4
+RM216,Sales,71,3,75,4,3
+RM243,Research & Development,97,3,75,3,3
+RM301,Sales,96,3,75,4,3
+RM347,Research & Development,85,2,50,4,3
+RM367,Sales,88,3,75,1,3
+RM404,Sales,97,4,100,2,3
+RM447,Sales,99,3,75,4,3
+RM460,Research & Development,92,2,50,1,3
+RM467,Sales,80,3,75,2,3
+RM536,Human Resources,85,2,50,2,3
+RM539,Human Resources,79,2,50,4,3
+RM668,Research & Development,86,1,25,2,3
+RM687,Research & Development,97,3,75,4,3
+RM717,Research & Development,98,3,75,1,3
+RM738,Research & Development,98,3,75,4,3
+RM747,Research & Development,90,1,25,2,4
+RM784,Research & Development,71,4,100,2,3
+RM831,Research & Development,74,3,75,2,3
+RM865,Research & Development,100,2,50,1,3
+RM952,Sales,77,1,25,3,3
+RM961,Sales,98,3,75,3,3
+RM989,Research & Development,92,3,75,4,3
+RM1029,Research & Development,77,4,100,2,3
+RM1197,Sales,83,3,75,4,3
+RM1219,Sales,74,3,75,4,3
+RM1229,Human Resources,77,1,25,3,3
+RM1267,Research & Development,77,3,75,3,4
+RM1295,Research & Development,88,4,100,2,3
+RM1296,Sales,78,3,75,3,3
+RM1357,Sales,89,3,75,3,4
+RM1421,Research & Development,86,3,75,4,4
+RM1446,Research & Development,82,2,50,1,4
+RM1449,Sales,75,2,50,3,3
+RM028,Sales,77,3,75,3,3
+RM198,Research & Development,85,3,75,3,3
+RM232,Research & Development,85,3,75,3,3
+RM254,Research & Development,94,4,100,4,3
+RM257,Research & Development,89,2,50,4,3
+RM282,Sales,87,3,75,2,4
+RM296,Sales,86,3,75,3,3
+RM349,Research & Development,88,3,75,1,3
+RM351,Human Resources,84,3,75,3,3
+RM357,Research & Development,92,2,50,1,4
+RM389,Research & Development,76,3,75,2,3
+RM410,Research & Development,70,3,75,1,3
+RM414,Research & Development,90,2,50,4,3
+RM442,Research & Development,86,3,75,2,3
+RM452,Research & Development,99,3,75,4,4
+RM489,Research & Development,76,3,75,3,3
+RM548,Research & Development,96,4,100,3,3
+RM585,Research & Development,76,3,75,2,3
+RM598,Research & Development,91,2,50,4,3
+RM605,Research & Development,73,3,75,2,3
+RM633,Research & Development,87,3,75,2,3
+RM644,Research & Development,72,4,100,3,3
+RM673,Sales,80,2,50,3,3
+RM742,Sales,98,3,75,4,3
+RM800,Research & Development,92,3,75,4,3
+RM825,Research & Development,87,1,25,2,3
+RM839,Sales,80,3,75,3,3
+RM840,Sales,96,3,75,2,3
+RM879,Human Resources,72,4,100,4,3
+RM888,Research & Development,74,3,75,1,3
+RM926,Research & Development,91,4,100,2,3
+RM955,Research & Development,92,3,75,3,3
+RM1000,Human Resources,93,3,75,3,3
+RM1051,Research & Development,95,3,75,1,3
+RM1089,Research & Development,97,2,50,3,3
+RM1094,Research & Development,92,3,75,4,3
+RM1130,Research & Development,79,2,50,4,4
+RM1264,Research & Development,73,3,75,2,4
+RM1288,Research & Development,88,4,100,2,3
+RM1321,Research & Development,87,3,75,3,4
+RM1326,Research & Development,91,3,75,4,3
+RM1358,Research & Development,75,3,75,3,3
+RM1379,Sales,85,3,75,2,3
+RM1405,Research & Development,94,2,50,4,3
+RM1420,Research & Development,83,3,75,4,3
+RM1444,Research & Development,100,3,75,1,3
+RM036,Research & Development,77,4,100,4,3
+RM120,Sales,81,3,75,3,3
+RM131,Research & Development,97,4,100,2,3
+RM194,Research & Development,70,4,100,4,3
+RM236,Sales,99,3,75,4,4
+RM316,Research & Development,96,3,75,3,3
+RM331,Research & Development,78,2,50,3,3
+RM334,Research & Development,91,3,75,3,3
+RM391,Research & Development,73,2,50,1,3
+RM396,Research & Development,85,3,75,4,4
+RM397,Research & Development,94,3,75,3,3
+RM490,Research & Development,75,2,50,2,3
+RM492,Research & Development,83,3,75,4,3
+RM549,Sales,90,2,50,4,3
+RM610,Research & Development,84,3,75,2,4
+RM651,Research & Development,84,3,75,4,3
+RM662,Research & Development,98,3,75,1,4
+RM776,Sales,86,2,50,3,3
+RM813,Research & Development,70,3,75,3,3
+RM850,Sales,99,1,25,1,3
+RM899,Research & Development,96,1,25,3,3
+RM927,Sales,76,2,50,4,3
+RM996,Research & Development,71,2,50,1,3
+RM1134,Research & Development,99,4,100,4,3
+RM1186,Research & Development,83,2,50,3,4
+RM1217,Sales,80,3,75,4,3
+RM1263,Research & Development,94,2,50,3,3
+RM1270,Human Resources,79,3,75,2,3
+RM1294,Research & Development,87,3,75,1,3
+RM1317,Sales,71,3,75,1,4
+RM1331,Research & Development,97,2,50,1,3
+RM1400,Research & Development,86,3,75,1,3
+RM029,Research & Development,99,2,50,1,3
+RM032,Research & Development,80,3,75,4,3
+RM053,Sales,81,3,75,2,4
+RM100,Research & Development,75,3,75,2,3
+RM287,Research & Development,89,3,75,4,4
+RM494,Human Resources,92,2,50,1,3
+RM498,Research & Development,97,3,75,4,3
+RM544,Research & Development,100,1,25,1,3
+RM618,Research & Development,74,3,75,4,3
+RM632,Research & Development,91,4,100,1,4
+RM659,Research & Development,96,3,75,2,3
+RM751,Sales,71,4,100,4,3
+RM790,Human Resources,95,2,50,2,3
+RM858,Research & Development,79,3,75,3,3
+RM863,Research & Development,98,1,25,4,3
+RM876,Research & Development,97,3,75,4,4
+RM892,Research & Development,95,4,100,1,3
+RM908,Sales,99,3,75,2,3
+RM923,Research & Development,90,4,100,3,3
+RM929,Research & Development,88,3,75,1,3
+RM954,Research & Development,82,3,75,1,3
+RM1043,Research & Development,90,2,50,3,3
+RM1047,Research & Development,85,3,75,4,3
+RM1052,Sales,72,3,75,1,3
+RM1063,Research & Development,92,3,75,2,3
+RM1079,Research & Development,84,3,75,4,3
+RM1141,Research & Development,82,3,75,2,3
+RM1166,Human Resources,78,3,75,1,3
+RM1201,Human Resources,70,3,75,3,3
+RM1215,Research & Development,98,4,100,3,3
+RM1280,Research & Development,77,3,75,3,3
+RM1353,Research & Development,72,4,100,2,3
+RM1436,Research & Development,95,3,75,2,3
+RM068,Research & Development,77,3,75,2,3
+RM078,Research & Development,81,3,75,4,3
+RM142,Research & Development,97,3,75,3,3
+RM154,Research & Development,91,3,75,2,3
+RM175,Sales,87,3,75,3,3
+RM195,Research & Development,82,2,50,1,4
+RM219,Sales,89,2,50,4,3
+RM245,Research & Development,83,4,100,3,3
+RM250,Research & Development,98,4,100,1,3
+RM269,Research & Development,94,3,75,3,3
+RM312,Research & Development,77,3,75,1,3
+RM335,Research & Development,90,3,75,4,3
+RM408,Research & Development,96,3,75,1,4
+RM453,Sales,96,3,75,4,3
+RM505,Sales,99,3,75,1,3
+RM565,Sales,87,1,25,2,3
+RM604,Research & Development,74,2,50,2,3
+RM626,Sales,72,3,75,4,3
+RM697,Research & Development,71,3,75,3,3
+RM714,Research & Development,81,3,75,4,3
+RM719,Research & Development,97,3,75,4,3
+RM756,Sales,88,3,75,4,3
+RM760,Human Resources,87,3,75,2,3
+RM806,Sales,93,2,50,2,3
+RM855,Research & Development,92,3,75,1,3
+RM914,Sales,90,1,25,1,3
+RM937,Research & Development,70,3,75,2,4
+RM1035,Research & Development,77,1,25,2,3
+RM1038,Research & Development,83,3,75,2,3
+RM1093,Research & Development,90,3,75,4,4
+RM1100,Research & Development,88,3,75,1,3
+RM1143,Research & Development,91,1,25,3,3
+RM1144,Sales,90,2,50,1,3
+RM1161,Research & Development,78,2,50,4,3
+RM1222,Research & Development,76,2,50,3,4
+RM1226,Research & Development,78,2,50,4,3
+RM1244,Human Resources,97,1,25,3,4
+RM1315,Sales,92,3,75,3,4
+RM1347,Research & Development,75,2,50,2,3
+RM1363,Research & Development,80,3,75,2,3
+RM1455,Sales,75,3,75,4,3
+RM030,Sales,80,3,75,2,3
+RM049,Sales,81,3,75,1,4
+RM080,Human Resources,95,3,75,2,4
+RM090,Sales,96,2,50,3,3
+RM094,Research & Development,98,2,50,3,3
+RM179,Sales,97,3,75,2,4
+RM210,Research & Development,78,3,75,4,3
+RM264,Sales,81,1,25,3,3
+RM366,Research & Development,94,3,75,3,3
+RM413,Research & Development,91,3,75,3,3
+RM430,Research & Development,80,3,75,1,3
+RM434,Sales,80,2,50,3,3
+RM466,Research & Development,79,3,75,1,3
+RM724,Research & Development,97,3,75,4,3
+RM771,Research & Development,85,3,75,4,3
+RM779,Research & Development,90,2,50,4,4
+RM811,Sales,82,3,75,1,3
+RM862,Sales,95,3,75,3,4
+RM870,Research & Development,83,3,75,4,3
+RM878,Research & Development,99,3,75,4,3
+RM917,Sales,78,2,50,4,3
+RM944,Human Resources,79,3,75,4,3
+RM1032,Sales,89,3,75,1,3
+RM1081,Sales,79,3,75,3,3
+RM1136,Sales,97,4,100,4,3
+RM1232,Research & Development,96,3,75,3,3
+RM1236,Sales,79,3,75,3,3
+RM1278,Research & Development,72,3,75,3,3
+RM1286,Sales,92,2,50,2,3
+RM1299,Research & Development,89,3,75,4,4
+RM1323,Research & Development,88,3,75,4,3
+RM1328,Sales,96,4,100,1,3
+RM1334,Sales,98,3,75,3,4
+RM272,Research & Development,70,3,75,1,3
+RM330,Research & Development,96,3,75,4,3
+RM348,Sales,78,3,75,2,3
+RM429,Research & Development,70,3,75,1,3
+RM533,Sales,80,3,75,4,3
+RM545,Sales,79,3,75,4,3
+RM567,Sales,81,4,100,2,3
+RM593,Research & Development,84,3,75,3,3
+RM652,Sales,82,3,75,3,4
+RM666,Sales,88,2,50,4,3
+RM708,Research & Development,74,4,100,3,3
+RM720,Sales,92,3,75,4,3
+RM1021,Research & Development,78,3,75,1,3
+RM1025,Research & Development,95,3,75,1,3
+RM1068,Sales,90,3,75,3,3
+RM1155,Human Resources,74,3,75,4,3
+RM1195,Sales,85,4,100,2,3
+RM1224,Sales,77,1,25,3,3
+RM1235,Sales,84,3,75,3,3
+RM1304,Research & Development,81,2,50,3,3
+RM1322,Research & Development,87,3,75,2,3
+RM1371,Research & Development,89,3,75,3,3
+RM1415,Research & Development,76,3,75,1,4
+RM1422,Research & Development,82,3,75,3,3
+RM051,Research & Development,83,2,50,1,3
+RM353,Sales,99,3,75,1,4
+RM445,Sales,78,3,75,2,3
+RM493,Research & Development,78,2,50,4,3
+RM521,Sales,86,4,100,2,3
+RM679,Research & Development,98,3,75,4,3
+RM736,Research & Development,79,2,50,1,3
+RM737,Research & Development,97,2,50,3,3
+RM805,Research & Development,84,4,100,1,4
+RM902,Research & Development,87,4,100,4,3
+RM905,Research & Development,95,2,50,4,3
+RM970,Research & Development,79,3,75,4,3
+RM1039,Sales,74,3,75,3,3
+RM1104,Sales,89,3,75,3,3
+RM1115,Research & Development,88,3,75,3,3
+RM1167,Research & Development,70,2,50,3,4
+RM1205,Sales,91,3,75,4,3
+RM1332,Research & Development,98,2,50,4,3
+RM1352,Research & Development,80,3,75,4,3
+RM002,Research & Development,76,2,50,3,4
+RM130,Research & Development,97,3,75,3,3
+RM202,Research & Development,72,3,75,4,3
+RM291,Research & Development,90,3,75,3,3
+RM317,Research & Development,82,2,50,3,3
+RM376,Research & Development,82,2,50,2,4
+RM474,Research & Development,98,2,50,4,3
+RM608,Sales,93,3,75,3,3
+RM640,Research & Development,95,3,75,3,3
+RM678,Research & Development,92,3,75,1,3
+RM822,Sales,91,2,50,4,3
+RM900,Research & Development,91,2,50,1,3
+RM1007,Research & Development,83,2,50,1,4
+RM1045,Research & Development,100,3,75,1,3
+RM1055,Research & Development,89,3,75,3,3
+RM1072,Research & Development,98,2,50,3,4
+RM1148,Research & Development,100,3,75,3,3
+RM1177,Research & Development,73,3,75,1,3
+RM1182,Research & Development,97,2,50,3,3
+RM1193,Research & Development,82,3,75,4,3
+RM1196,Research & Development,76,3,75,3,3
+RM1255,Sales,79,3,75,4,3
+RM1378,Research & Development,77,3,75,2,3
+RM1469,Sales,85,2,50,4,3
+RM1469,Sales,90,2,50,4,3
+RM037,Sales,84,2,50,1,3
+RM063,Research & Development,90,2,50,2,3
+RM107,Research & Development,97,3,75,1,3
+RM132,Sales,71,3,75,3,3
+RM166,Research & Development,92,3,75,3,3
+RM184,Research & Development,87,2,50,3,3
+RM234,Sales,84,3,75,4,3
+RM280,Research & Development,83,3,75,1,3
+RM368,Research & Development,97,2,50,4,3
+RM426,Research & Development,95,2,50,2,3
+RM478,Human Resources,91,3,75,1,3
+RM524,Research & Development,70,4,100,4,3
+RM529,Sales,84,3,75,2,3
+RM540,Sales,72,3,75,4,3
+RM589,Research & Development,89,3,75,3,3
+RM654,Research & Development,88,3,75,1,3
+RM715,Research & Development,72,3,75,4,4
+RM722,Research & Development,100,3,75,4,3
+RM743,Research & Development,77,3,75,1,3
+RM752,Sales,82,3,75,4,3
+RM767,Research & Development,76,3,75,2,3
+RM802,Sales,70,3,75,4,3
+RM868,Research & Development,91,3,75,4,4
+RM946,Research & Development,70,3,75,4,3
+RM1087,Research & Development,87,1,25,3,3
+RM1127,Sales,78,3,75,3,3
+RM1139,Research & Development,94,3,75,2,3
+RM1178,Research & Development,89,2,50,4,3
+RM1453,Sales,89,3,75,2,3
+RM1462,Sales,71,2,50,4,3
+RM1462,Sales,75,2,50,4,3
+RM088,Research & Development,74,3,75,4,4
+RM092,Sales,94,3,75,3,4
+RM111,Research & Development,94,2,50,1,4
+RM124,Research & Development,81,3,75,1,3
+RM137,Research & Development,91,1,25,1,3
+RM157,Research & Development,78,2,50,2,3
+RM190,Research & Development,95,3,75,4,3
+RM214,Research & Development,86,2,50,2,3
+RM259,Research & Development,81,3,75,3,3
+RM300,Research & Development,88,1,25,4,3
+RM377,Sales,83,3,75,3,3
+RM617,Sales,72,3,75,1,3
+RM780,Research & Development,97,3,75,1,3
+RM919,Sales,84,3,75,4,4
+RM931,Research & Development,99,2,50,2,3
+RM963,Human Resources,94,3,75,3,3
+RM972,Research & Development,97,2,50,4,3
+RM988,Sales,73,3,75,2,3
+RM1276,Research & Development,88,3,75,1,3
+RM191,Research & Development,91,2,50,3,3
+RM231,Research & Development,84,2,50,3,3
+RM238,Sales,94,2,50,1,3
+RM318,Research & Development,91,2,50,3,3
+RM407,Research & Development,72,2,50,4,3
+RM409,Research & Development,84,3,75,4,3
+RM469,Research & Development,76,3,75,4,3
+RM562,Sales,98,2,50,3,3
+RM571,Research & Development,82,3,75,4,3
+RM588,Research & Development,90,3,75,4,4
+RM628,Research & Development,96,2,50,3,4
+RM700,Research & Development,84,3,75,4,3
+RM750,Sales,87,1,25,1,3
+RM807,Research & Development,71,3,75,2,3
+RM948,Sales,71,3,75,2,3
+RM995,Research & Development,99,4,100,4,3
+RM1001,Research & Development,79,3,75,3,3
+RM1435,Sales,91,3,75,1,3
+RM019,Sales,90,2,50,1,3
+RM026,Research & Development,83,3,75,3,3
+RM153,Sales,86,3,75,2,4
+RM185,Research & Development,95,4,100,4,3
+RM281,Research & Development,78,3,75,3,3
+RM503,Sales,99,3,75,4,4
+RM535,Research & Development,82,4,100,3,3
+RM557,Research & Development,91,3,75,4,3
+RM625,Sales,90,2,50,1,3
+RM647,Sales,99,3,75,1,3
+RM650,Research & Development,78,3,75,4,3
+RM702,Sales,80,3,75,3,3
+RM761,Sales,80,2,50,3,3
+RM859,Research & Development,99,3,75,4,3
+RM1044,Research & Development,75,4,100,4,3
+RM1112,Research & Development,72,2,50,3,3
+RM1204,Research & Development,80,4,100,2,3
+RM1269,Research & Development,90,2,50,1,4
+RM1397,Sales,74,3,75,1,3
+RM096,Research & Development,73,3,75,1,3
+RM113,Human Resources,91,4,100,4,3
+RM220,Sales,95,3,75,4,3
+RM333,Research & Development,74,3,75,4,3
+RM393,Research & Development,75,3,75,1,3
+RM432,Research & Development,100,3,75,3,3
+RM511,Human Resources,85,3,75,3,3
+RM576,Research & Development,75,3,75,4,3
+RM729,Research & Development,88,3,75,3,3
+RM772,Sales,98,2,50,3,3
+RM891,Research & Development,79,3,75,4,3
+RM895,Research & Development,99,3,75,4,3
+RM1009,Research & Development,75,3,75,4,3
+RM1077,Research & Development,94,3,75,2,4
+RM1185,Research & Development,89,3,75,2,4
+RM1306,Research & Development,87,3,75,4,3
+RM1398,Research & Development,83,3,75,1,3
+RM1407,Research & Development,90,3,75,3,3
+RM066,Research & Development,82,3,75,4,3
+RM083,Sales,75,3,75,1,3
+RM188,Research & Development,77,4,100,3,3
+RM271,Research & Development,86,3,75,4,3
+RM284,Research & Development,76,3,75,2,3
+RM380,Research & Development,82,3,75,3,3
+RM446,Sales,100,3,75,1,4
+RM569,Research & Development,86,3,75,4,3
+RM609,Sales,71,3,75,3,3
+RM746,Research & Development,81,3,75,3,3
+RM775,Research & Development,99,2,50,3,3
+RM788,Research & Development,87,3,75,4,3
+RM915,Research & Development,95,2,50,4,3
+RM956,Research & Development,87,1,25,4,3
+RM976,Sales,83,4,100,1,3
+RM1011,Research & Development,84,4,100,2,3
+RM1066,Research & Development,75,3,75,4,3
+RM1117,Sales,92,2,50,3,4
+RM1208,Research & Development,83,2,50,1,3
+RM1265,Research & Development,92,2,50,3,3
+RM1337,Research & Development,73,2,50,2,4
+RM1402,Human Resources,82,4,100,3,3
+RM086,Research & Development,77,1,25,4,3
+RM123,Research & Development,79,3,75,2,3
+RM176,Research & Development,73,3,75,3,3
+RM402,Sales,100,4,100,3,3
+RM553,Research & Development,93,3,75,3,3
+RM773,Research & Development,72,3,75,1,3
+RM852,Research & Development,89,3,75,4,3
+RM957,Human Resources,88,3,75,4,3
+RM977,Research & Development,98,3,75,4,3
+RM1024,Research & Development,86,3,75,1,4
+RM1355,Research & Development,71,3,75,1,3
+RM1372,Sales,83,2,50,4,3
+RM1442,Research & Development,76,3,75,3,4
+RM1445,Research & Development,78,3,75,4,3
+RM164,Research & Development,90,4,100,3,3
+RM361,Research & Development,77,3,75,4,3
+RM425,Sales,100,2,50,1,3
+RM1054,Research & Development,82,4,100,2,4
+RM099,Sales,79,3,75,4,3
+RM127,Research & Development,76,3,75,4,3
+RM158,Research & Development,91,2,50,2,4
+RM309,Research & Development,82,1,25,4,3
+RM596,Research & Development,80,3,75,4,3
+RM661,Research & Development,74,2,50,4,3
+RM675,Research & Development,83,2,50,3,3
+RM701,Research & Development,90,3,75,4,4
+RM939,Research & Development,83,3,75,1,3
+RM967,Research & Development,72,2,50,3,3
+RM1010,Research & Development,72,3,75,4,4
+RM1302,Sales,96,3,75,2,4
+RM1311,Research & Development,95,3,75,1,3
+RM1375,Sales,83,3,75,4,3
+RM007,Research & Development,97,4,100,3,4
+RM064,Sales,78,3,75,1,3
+RM071,Sales,83,2,50,1,3
+RM106,Human Resources,94,2,50,3,4
+RM226,Research & Development,86,2,50,3,3
+RM233,Human Resources,83,3,75,2,3
+RM744,Research & Development,72,2,50,3,3
+RM759,Sales,75,3,75,2,3
+RM898,Sales,81,2,50,3,3
+RM920,Research & Development,82,3,75,4,3
+RM412,Research & Development,87,3,75,1,3
+RM428,Sales,89,2,50,3,3
+RM537,Sales,85,3,75,1,3
+RM880,Sales,72,4,100,2,3
+RM1210,Research & Development,82,1,25,3,4
